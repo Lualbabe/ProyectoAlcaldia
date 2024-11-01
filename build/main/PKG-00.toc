@@ -1,4 +1,4 @@
-('C:\\Users\\Luis\\Desktop\\Pasantias\\Python\\build\\main\\main.pkg',
+('C:\\Users\\Luis\\Desktop\\Pasantias\\Python\\build\\main\\GestorDeArchivosExcel.pkg',
  {'BINARY': True,
   'DATA': True,
   'EXECUTABLE': True,
